@@ -6,7 +6,7 @@ subtitle: Computer Science & AI/ML Undergrad Student at the University of Maryla
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -15,8 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my site! I'm Nihaal Bhojwani, currently an undergraduate computer science student at the [University of Maryland](https://umd.edu/), with a concentration in machine learning. I am passionate about the intersection of AI and science, particularly in relation to physics, space, and rocketry.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently conducting machine learning research at the [California Institute of Technology](https://www.caltech.edu/), mentored by [Prof. Animashree Anankumar](http://tensorlab.cms.caltech.edu/users/anima/), where I develop new AI methods to enable and accelerate scientific applications. Previously, I worked at [NASA Ames Research Center](https://www.nasa.gov/ames/) as an AI/ML Research Intern under the guidance of [Manoj Agrawal](https://www.linkedin.com/in/manojagr/) and [Dr. Krishna Kalyanam](https://www.nasa.gov/people/krishna-kalyanam/), building an air traffic control recommendation system. Additionally, I interned at [Lockheed Martin](https://www.lockheedmartin.com/en-us/index.html) as a machine learning engineer under [Joe Worsham](https://www.linkedin.com/in/joeworsham/), where I developed time-series forecasting algorithms.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I plan to pursue a PhD after graduating in December 2025. In the long term, I aim to deepen our understanding of the physical world through AI and contribute to advancing space exploration and making humanity a multiplanetary species.
+
+On a personal note, I enjoy sports, traveling, and writing. I am an avid fan of the [New England Patriots](https://www.patriots.com/) and [Maryland Terrapins](https://umterps.com/). I also love exploring new places and will be studying abroad in Madrid during the Spring 2025 semester. Lastly, I have a passion for creative writing and aspire to publish a novel one day.
