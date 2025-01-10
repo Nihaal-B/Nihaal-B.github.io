@@ -1,12 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Here is my experience teaching!
 nav: true
 nav_order: 6
 ---
+## Machine Learning Lecture 1: Introduction to ML
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/nPm1kzRVTjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-Organize your courses by years, topics, or universities, however you like!
+**Description:** This video introduces the channel and begins to explore the question "What is machine learning".
+

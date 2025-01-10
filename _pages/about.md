@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Computer Science & AI/ML Undergrad Student at the University of Maryland | Machine Learning Research at CalTech | Prev ML @ NASA, Lockheed Martin
+subtitle: Computer Science & AI/ML Undergrad Student at the University of Maryland | Machine Learning Research at Caltech | Prev ML @ NASA, Lockheed Martin
 
 profile:
   align: right

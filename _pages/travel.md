@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /travel/
-title: travel
-description: Documentation of my travel
+title: Travel
+description: My trips!
 nav: true
 nav_order: 7
 
